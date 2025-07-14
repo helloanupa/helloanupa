@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Anupa Denil Amarasekara</h1>
 🌱 I’m currently learning Programming Languages<br>👨‍💻 All of my projects are available at https://www.instagram.com/helloanupa<br>📫 How to reach me anupadenil@gmail.com<br>⚡ Fun fact The first programme err was an actual moth!
 
 
